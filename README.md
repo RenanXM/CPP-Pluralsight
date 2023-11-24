@@ -1,3 +1,3 @@
 # CPP-Pluralsight
 
-# Course
+# Basics and Advanced Topics
