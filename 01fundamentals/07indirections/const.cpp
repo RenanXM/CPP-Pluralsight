@@ -39,4 +39,6 @@ int main()
     Kate.SetNumber(235);
     Person const cKate = Kate;
     //cKate.SetNumber(236);
+
+    return 0;
 }
