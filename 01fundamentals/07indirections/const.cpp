@@ -33,7 +33,7 @@ int main()
     // DoubleIt recieves an reference. 10 is literal. To fix it
     // you can put int DoubleIt(int const& x)
     // Or you simply recieve the parameter by value. 
-    int DoubleTen = DoubleIt(10);
+    //int DoubleTen = DoubleIt(10);
 
     Person Kate("Kate", "Gregory", 234);
     Kate.SetNumber(235);
